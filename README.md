@@ -1,7 +1,7 @@
-## Contents of this Repo
+# Contents of this Repo
 
-#These are all Exploratory Graphs and hence they are "quick and dirty"!
-#If one has not much to do then they can keep tweaking the R files to get a pretty graph or two. But not me.
+These are all Exploratory Graphs and hence they are "quick and dirty"!
+If one has not much to do then they can keep tweaking the R files to get a pretty graph or two. But not me.
 
 # Coursera Project 1
 
